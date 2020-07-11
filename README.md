@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 
+Ideas:
+- https://github.com/brpaz
+- https://dev.to/waylonwalker/what-s-on-your-github-profile-40p3
+-->

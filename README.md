@@ -9,6 +9,26 @@ I'm Heather Musson, a third year Software Engineering student at the University 
 - 🎨 Learning <a href="https://shopify.github.io/liquid/">Liquid</a> while designing and building several Shopify themes
 - 👀 Looking for a Winter 2021 internship
 
+<img src="https://github.com/heathermusson/heathermusson/raw/master/assets/water.jpeg" align="left" height="200" />
+
+## 📬 Contact Me
+
+<a href="heathermusson.com">
+	<img width="32" align="left"
+		 alt="Portfolio"
+		 src="https://github.com/heathermusson/heathermusson/raw/master/icons/email.svg">
+</a>
+<a href="https://www.linkedin.com/in/heather-m-004517122/">
+	<img width="32" align="left"
+		 alt="Linkedin"
+		 src="https://github.com/heathermusson/heathermusson/raw/master/icons/facebook.svg">
+</a>
+<a href="https://www.instagram.com/heather_musson/">
+	<img width="32" align="left"
+		 alt="Instagram"
+		 src="https://github.com/heathermusson/heathermusson/raw/master/icons/instagram.svg">
+</a>
+
 <!--
 **heathermusson/heathermusson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

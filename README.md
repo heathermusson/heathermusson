@@ -20,4 +20,5 @@ Ideas:
 - https://github.com/brpaz
 - https://dev.to/waylonwalker/what-s-on-your-github-profile-40p3
 - https://github.com/abhisheknaiidu/awesome-github-profile-readme#icons-
+- shields.io
 -->

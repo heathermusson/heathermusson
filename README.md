@@ -9,10 +9,6 @@ I'm Heather Musson, a third year Software Engineering student at the University 
 - 🎨 Learning <a href="https://shopify.github.io/liquid/">Liquid</a> while designing and building several Shopify themes
 - 👀 Looking for a Winter 2021 internship
 
-<img src="https://github.com/heathermusson/heathermusson/raw/master/assets/water.jpeg" align="left" height="200" />
-
-## 📬 Contact Me
-
 Checkout my <a href="https://heathermusson.com">portfolio</a>, or send me an email at havmusso@uwaterloo.ca.
 
 <!-- 

@@ -13,39 +13,11 @@ I'm Heather Musson, a third year Software Engineering student at the University 
 
 ## 📬 Contact Me
 
-<a href="heathermusson.com">
-	<img width="32" align="left"
-		 alt="Portfolio"
-		 src="https://github.com/heathermusson/heathermusson/raw/master/icons/email.svg">
-</a>
-<a href="https://www.linkedin.com/in/heather-m-004517122/">
-	<img width="32" align="left"
-		 alt="Linkedin"
-		 src="https://github.com/heathermusson/heathermusson/raw/master/icons/facebook.svg">
-</a>
-<a href="https://www.instagram.com/heather_musson/">
-	<img width="32" align="left"
-		 alt="Instagram"
-		 src="https://github.com/heathermusson/heathermusson/raw/master/icons/instagram.svg">
-</a>
-
-<!--
-**heathermusson/heathermusson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Checkout my <a href="https://heathermusson.com">portfolio</a>, or send me an email at havmusso@uwaterloo.ca.
 
 <!-- 
 Ideas:
 - https://github.com/brpaz
 - https://dev.to/waylonwalker/what-s-on-your-github-profile-40p3
+- https://github.com/abhisheknaiidu/awesome-github-profile-readme#icons-
 -->

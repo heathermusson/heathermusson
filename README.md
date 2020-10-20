@@ -4,10 +4,11 @@
 
 I'm Heather Musson, a third year Software Engineering student at the University of Waterloo. I love all things frontend, and the creation of amazing user interfaces. I am always looking to learn cutting-edge technologies, and be a part of challenging projects. Currently, I am:
 
-- 🏢 Working at Shopify as a Web Developer intern
-- 📔 Improving my skills in ReactJS, GraphQL, and NodeJS
-- 🎨 Learning <a href="https://shopify.github.io/liquid/">Liquid</a> while designing and building several Shopify themes
-- 👀 Looking for a Winter 2021 internship
+- 👀 Looking forward to my Winter 2021 internship at Facebook <!-- 🏢 Working at Shopify as a Web Developer intern -->
+- 🔮 Reminiscing about my past internships at Shopify, and Smile.io
+- 📔 Improving my skills in ReactJS, GraphQL, and Ruby on Rails
+- 👩 Working on my <a href="https://github.com/heathermusson/fydp-backend">Final Year Design Project</a>
+<!-- - 🎨 Learning <a href="https://shopify.github.io/liquid/">Liquid</a> while designing and building several Shopify themes -->
 
 Checkout my <a href="https://heathermusson.com">portfolio</a>, or send me an email at havmusso@uwaterloo.ca.
 

@@ -7,7 +7,7 @@ I'm Heather Musson, a third year Software Engineering student at the University 
 - 👀 Looking forward to my Winter 2021 internship at Facebook <!-- 🏢 Working at Shopify as a Web Developer intern -->
 - 🔮 Reminiscing about my past internships at Shopify, and Smile.io
 - 📔 Improving my skills in ReactJS, GraphQL, and Ruby on Rails
-- 👩 Working on my <a href="https://github.com/heathermusson/fydp-backend">Final Year Design Project</a>
+- 👩 Working on my <a href="https://github.com/Team-Chicken-Nuggets/fydp-backend">Final Year Design Project</a>
 <!-- - 🎨 Learning <a href="https://shopify.github.io/liquid/">Liquid</a> while designing and building several Shopify themes -->
 
 Checkout my <a href="https://heathermusson.com">portfolio</a>, or send me an email at havmusso@uwaterloo.ca.

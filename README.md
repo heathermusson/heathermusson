@@ -2,10 +2,10 @@
 
 <a href="https://heathermusson.com/"><img src="https://github.com/heathermusson/heathermusson/raw/master/assets/hi.JPG" align="right" height="200" /></a>
 
-I'm Heather Musson, a third year Software Engineering student at the University of Waterloo. I love all things frontend, and the creation of amazing user interfaces. I am always looking to learn cutting-edge technologies, and be a part of challenging projects. Currently, I am:
+I'm Heather Musson, a fourth year Software Engineering student at the University of Waterloo. I love all things frontend, and the creation of amazing user interfaces. I am always looking to learn cutting-edge technologies, and be a part of challenging projects. Currently, I am:
 
-- 👀 Looking for a Fall 2021 internship <!-- 👀 Looking forward to my Winter 2021 internship at Facebook 🏢 Working at Shopify as a Web Developer intern -->
-- 🔮 Reminiscing about my past internships at Facebook, Shopify, and Smile.io
+- 👀 Looking forward to starting full time @Facebook in August 2022
+- 🔮 Reminiscing about my past internships at Coinbase, Facebook, Shopify, and Smile.io
 - 📔 Improving my skills in ReactJS, GraphQL, and Ruby on Rails
 - 👩 Working on my <a href="https://github.com/Team-Chicken-Nuggets/server">Final Year Design Project</a>
 <!-- - 🎨 Learning <a href="https://shopify.github.io/liquid/">Liquid</a> while designing and building several Shopify themes -->
